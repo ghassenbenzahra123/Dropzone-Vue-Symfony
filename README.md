@@ -1,2 +1,3 @@
 # Dropzone-Vue-Symfony
-Multifile upload using dropzone & symfony on server-side 
+
+Multiple File upload using Vuejs & symfony 5 on server-side. 
